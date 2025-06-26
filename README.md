@@ -11,7 +11,6 @@ This repository contains Python implementations of core regression and classific
 | `linear_regression_univariate.py` | Implements Linear Regression for a single feature (univariate case). |
 | `linear_regression_multivariate.py` | Implements Linear Regression for multiple features (multivariate case). |
 | `polynomial_regression.py`        | Implements Polynomial Regression to model nonlinear relationships. |
-| `logistic_regression.py`          | Implements Logistic Regression for binary classification tasks. |
 
 ---
 
