@@ -8,10 +8,10 @@ This repository contains Python implementations of core regression and classific
 
 | File Name                          | Description |
 |-----------------------------------|-------------|
-| `linear_regression_univariate.py` | Implements Linear Regression for a single feature (univariate case). |
-| `linear_regression_multivariate.py` | Implements Linear Regression for multiple features (multivariate case). |
-| `polynomial_regression.py`        | Implements Polynomial Regression to model nonlinear relationships. |
-
+| `linear_regression_univariate.ipynb` | Implements Linear Regression for a single feature (univariate case). |
+| `linear_regression_multivariate.ipynb` | Implements Linear Regression for multiple features (multivariate case). |
+| `polynomial_regression.ipynb`        | Implements Polynomial Regression to model nonlinear relationships. |
+| `logistic_regression.ipynb`        | Implements logistic Regression from scratch |
 ---
 
 ## 🔧 Features
